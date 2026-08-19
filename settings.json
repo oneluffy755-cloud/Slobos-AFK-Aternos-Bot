@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "GUGUDADAGU.aternos.me",
+    "ip": "GUGUDADAGU.aternos.me:13677",
     "port": 13677,
     "version": "",
     "try-creative": false
